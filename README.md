@@ -1,4 +1,4 @@
-# Video Captioning [![Build Status](https://travis-ci.com/scopeInfinity/Video2Description.svg?branch=VideoCaption)](https://travis-ci.com/scopeInfinity/Video2Description) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FscopeInfinity%2FVideo2Description&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# VisioTech_Video2Text [![Build Status](https://travis-ci.com/scopeInfinity/Video2Description.svg?branch=VideoCaption)](https://travis-ci.com/scopeInfinity/Video2Description) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FscopeInfinity%2FVideo2Description&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 Generate caption for the given video clip
 
 Branch : [VideoCaption](https://github.com/scopeInfinity/Video2Description/tree/VideoCaption) (1a2124d), [VideoCaption_catt](https://github.com/scopeInfinity/Video2Description/tree/VideoCaption_catt) (647e73b4)
@@ -61,8 +61,7 @@ Test videos with poor results
 [12908]: https://raw.githubusercontent.com/scopeInfinity/Video2Description/VideoCaption/f5c22f7_images/12908.gif
 
 
-### Try it out!!!
-* Please feel free to raise PR with necessary suggestions.
+### Procedures!!!
 * Clone the repository`
   * `git clone https://github.com/scopeInfinity/Video2Description.git`
 * Install docker and docker-compose
